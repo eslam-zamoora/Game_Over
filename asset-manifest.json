@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Game_Over/static/css/main.8a5b0aaa.css",
+    "main.js": "/Game_Over/static/js/main.1f6fc005.js",
+    "static/js/787.d1340d69.chunk.js": "/Game_Over/static/js/787.d1340d69.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Game_Over/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/cover.jpg": "/Game_Over/static/media/cover.f5d754c80ffe03a32277.jpg",
+    "static/media/fa-brands-400.ttf": "/Game_Over/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/Game_Over/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/Game_Over/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/Game_Over/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/gameover.jpg": "/Game_Over/static/media/gameover.d980fdee36742d6301ad.jpg",
+    "static/media/error.jpg": "/Game_Over/static/media/error.4cecc2abdd1493addbee.jpg",
+    "static/media/fa-regular-400.woff2": "/Game_Over/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Game_Over/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/logo1.jfif": "/Game_Over/static/media/logo1.0b438b7b7aacc426b66c.jfif",
+    "static/media/fa-v4compatibility.woff2": "/Game_Over/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/Game_Over/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Game_Over/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Game_Over/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Game_Over/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Game_Over/index.html",
+    "main.8a5b0aaa.css.map": "/Game_Over/static/css/main.8a5b0aaa.css.map",
+    "main.1f6fc005.js.map": "/Game_Over/static/js/main.1f6fc005.js.map",
+    "787.d1340d69.chunk.js.map": "/Game_Over/static/js/787.d1340d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a5b0aaa.css",
+    "static/js/main.1f6fc005.js"
+  ]
+}
